@@ -1,12 +1,5 @@
-<<<<<<< HEAD
-# Module 1 Challenge: CSS Refactoring
-The repo for Module 1's challenge.
-=======
-# module-1-challenge
-The repo for Module 1's challenge
 
-Website description: Horiseon's main website is a platform dedicated to showcasing the company's expertise in Search Engine Optimization (SEO), Online Reputation Management, and Social Media Marketing.
->>>>>>> 476c7c3269ed43c7bbd45c922f96c2ef7a70d9c9
+# Module 1 Challenge: CSS Refactoring
 
 Website description: Horiseon's main website is a platform dedicated to showcasing the company's expertise in Search Engine Optimization (SEO), Online Reputation Management, and Social Media Marketing.
 
@@ -40,14 +33,6 @@ The website is structured with a clear navigation bar at the top, followed by a 
   Hero Section: A visually appealing section meant to capture the attention of visitors.
   Benefits Section: Highlights the benefits of using Horiseon's services, including lead generation, brand awareness, and cost management.
   Footer: Contains a heartfelt message from the Horiseon team and copyright information.
-<<<<<<< HEAD
-=======
-
-#Types of services:
-  Search Engine Optimization: Details on how SEO can help businesses increase visibility and attract the right customers.
-  Online Reputation Management: Information on managing and controlling the online reputation of a business.
-  Social Media Marketing: Insights into leveraging social media for brand growth and lead generation.
->>>>>>> 476c7c3269ed43c7bbd45c922f96c2ef7a70d9c9
 
 ## Types of services provided on webpage:
   Search Engine Optimization: Details on how SEO can help businesses increase visibility and attract the right customers.
