@@ -24,6 +24,11 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
+## Webpage screenshot ##
+![Screenshot of webapge final build.](./image.png)
+
+## Source code ##
+Source code was provided by course and the css stylesheet has been refactored for simplicity in code as well as semantic structure with helpful notes. The HTML file was also refactored to include semantic structure. 
 
 ## Overview
 The website is structured with a clear navigation bar at the top, followed by a hero section. The main content area provides detailed information on the three core services offered by Horiseon. Additionally, there's a benefits section highlighting the advantages of their services, and a footer with company information.
